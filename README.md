@@ -5,7 +5,7 @@ Soy un entusiasta de la programación con un ardiente deseo de aprender y crecer
 Habilidades: JAVA / HTML / CSS / SQL
 
 - 🔭 Estoy trabajando en this page. 
-- 🌱 Estoy aprendiendo: git, git hub, angular, java, sprin boot, html, css, sql
+- 🌱 Estoy aprendiendo: git, git hub, angular, java, spring boot, html, css, sql
 - 😄 Pronombres: Neprithes, Ema
 
 
