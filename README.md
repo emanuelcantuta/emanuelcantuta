@@ -32,4 +32,8 @@ Neprithes / Ema
   <a href="https://github.com/emanuelcantuta" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" />
   </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@neprithes" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="30" />
+  </a>
 </p>
