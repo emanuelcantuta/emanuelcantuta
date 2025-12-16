@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Emanuel Nazareno Cantuta Hueso</h1>
-<h3 align="center">Desarrollador Web - Backend</h3>
+<h3 align="center">Futuro Desarrollador Web - Backend</h3>
 
 ---
 
@@ -16,7 +16,7 @@ Soy un entusiasta de la programación con un fuerte compromiso por aprender y cr
 🛠️ **Tecnologías que uso**  
 `Java` • `Spring Boot` • `HTML` • `CSS` • `SQL` • `C++`
 
-📚 **Aprendiendo actualmente**  
+📚 **Tecnologías que estoy mejorando**  
 - Git & GitHub  
 - Angular  
 - Java & Spring Boot  
