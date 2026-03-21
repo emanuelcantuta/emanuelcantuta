@@ -1,39 +1,61 @@
 <h1 align="center">Hola 👋, soy Emanuel Nazareno Cantuta Hueso</h1>
-<h3 align="center">Futuro Desarrollador Web - Backend</h3>
+<h3 align="center">Futuro Desarrollador Web - Backend 👨‍💻</h3>
+
+<p align="center">
+  <em>Estudiante de <b>Ingeniería en Sistemas de la Información</b> en la <b>UTN FRBA</b> 🎓</em>
+</p>
 
 ---
 
-🎓 **Formación académica**  
-Estudiante de **Ingeniería en Sistemas de la Información** en la **Universidad Tecnológica Nacional - Facultad Regional Buenos Aires (UTN FRBA)**.
+### 💡 Sobre mí
+Soy un entusiasta de la programación con un fuerte compromiso por aprender y crecer constantemente en este fascinante mundo. Me apasiona explorar nuevas ideas, tecnologías y enfoques que me permitan mejorar como desarrollador y aportar soluciones útiles. Mis pronombres son Neprithes / Ema.
 
 ---
 
-💡 **Sobre mí**  
-Soy un entusiasta de la programación con un fuerte compromiso por aprender y crecer constantemente en este fascinante mundo. Me apasiona explorar nuevas ideas, tecnologías y enfoques que me permitan mejorar como desarrollador y aportar soluciones útiles.
+### 🛠️ Tecnologías y Herramientas
+
+**Lenguajes y Frameworks** <p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Java_Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Swing" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
+
+**Bases de Datos y Herramientas** <p align="left">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> 
+  <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+**Aprendiendo / Mejorando actualmente** <p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
 
 ---
 
-🛠️ **Tecnologías que uso**  
-`Java` • `Spring Boot` • `HTML` • `CSS` • `SQL` • `C++`
-
-📚 **Tecnologías que estoy mejorando**  
-- Git & GitHub  
-- Angular  
-- Java & Spring Boot  
-- HTML, CSS y SQL
-
-🙋‍♂️ **Pronombres**  
-Neprithes / Ema
+### 📊 Mis Estadísticas en GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emanuelcantuta&show_icons=true&theme=radical" alt="Estadísticas de Emanuel" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelcantuta&layout=compact&theme=radical" alt="Lenguajes más usados" height="150"/>
+</p>
 
 ---
 
-📫 **Dónde encontrarme**  
+### 📫 Dónde encontrarme
 <p align="left">
   <a href="https://github.com/emanuelcantuta" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;
   <a href="https://www.youtube.com/@neprithes" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="30" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
