@@ -42,9 +42,8 @@ Soy un entusiasta de la programación con un fuerte compromiso por aprender y cr
 
 ---
 
-### 📊 Mis Estadísticas en GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emanuelcantuta&show_icons=true&theme=radical&v=1" alt="Estadísticas de Emanuel" height="150"/>
+### 💻 Lenguajes más utilizados
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelcantuta&layout=compact&theme=radical" alt="Lenguajes más usados" height="150"/>
 </p>
 
