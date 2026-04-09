@@ -44,9 +44,15 @@ Soy un entusiasta de la programación con un fuerte compromiso por aprender y cr
 
 ### 💻 Lenguajes más utilizados
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelcantuta&layout=compact&theme=radical" alt="Lenguajes más usados" height="150"/>
+  ![Top Langs](https://github-readme-stats-git-master-emanuelcantutas-projects.vercel.app/api/top-langs/?username=emanuelcantuta&layout=compact&theme=radical
 </p>
 
+---
+
+### 📊 Mis estadísticas de GitHub
+<p align="left">
+![GitHub stats](https://github-readme-stats-git-master-emanuelcantutas-projects.vercel.app/api?username=emanuelcantuta&show_icons=true&theme=radical)
+</p>
 ---
 
 ### 📫 Dónde encontrarme
