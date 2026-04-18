@@ -58,13 +58,13 @@ Soy un entusiasta de la programación con un fuerte compromiso por aprender y cr
 
 ### 📫 Dónde encontrarme
 <p align="left">
-  <a href="https://github.com/emanuelcantuta" target="_blank">
+  <a href="https://github.com/emanuelcantuta">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.youtube.com/@neprithes" target="_blank">
+  <a href="https://www.youtube.com/@neprithes">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://www.linkedin.com/in/emanuel-nazareno-cantuta-hueso" target="_blank">
+  <a href="https://www.linkedin.com/in/emanuel-nazareno-cantuta-hueso">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
