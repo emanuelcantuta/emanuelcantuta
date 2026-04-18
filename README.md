@@ -64,4 +64,7 @@ Soy un entusiasta de la programación con un fuerte compromiso por aprender y cr
   <a href="https://www.youtube.com/@neprithes" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
+  <a href="https://www.linkedin.com/in/emanuel-nazareno-cantuta-hueso" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
