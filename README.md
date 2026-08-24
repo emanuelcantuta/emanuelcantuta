@@ -44,14 +44,14 @@ Soy un entusiasta de la programación con un fuerte compromiso por aprender y cr
 
 ### 💻 Lenguajes más utilizados
 <p align="left">
-  <img src="https://github-readme-stats-kappa-eight-96.vercel.app/api/top-langs/?username=emanuelcantuta&layout=compact&theme=radical"/>
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=emanuelcantuta&layout=compact&theme=tokyonight&title_color=f83a9f&icon_color=f83a9f&hide_border=false&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ---
 
 ### 📊 Mis estadísticas de GitHub
 <p align="left">
-  <img src="https://github-readme-stats-kappa-eight-96.vercel.app/api?username=emanuelcantuta&show_icons=true&theme=radical"/>
+  <img  src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=emanuelcantuta&show_icons=true&theme=tokyonight&title_color=f83a9f&icon_color=f83a9f&hide_border=false&bg_color=00000000&count_private=true" alt="stats" />
 </p>
 
 ---
